@@ -27,7 +27,7 @@
 
 ### 👩‍🎓 学生
 
-邓乙华，从事人工智能应用开发；主要研究领域：大模型能力增强、智能体通信机制、跨模态数据处理与生成式系统设计
+Eva，从事人工智能应用开发；主要研究领域：大模型能力增强、智能体通信机制、跨模态数据处理与生成式系统设计
 
 <h2 align="center">🚀更新走势</h2>
 
@@ -164,5 +164,5 @@ flask --app py-pose-web run
 📌 如需引用 Py Pose Web，请在相关文章的**参考文献**中加入下面文字：
 
 ```
-曾逸夫, 邓乙华 (2024) Py Pose Web.https://github.com/YolieDeng/pyposeweb.
+曾逸夫, Eva Deng (2024) Py Pose Web.https://github.com/YolieDeng/pyposeweb.
 ```
